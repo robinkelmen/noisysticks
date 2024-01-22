@@ -21,4 +21,4 @@ The visualization is generated dynamically, and users can observe the drifting l
 
 **Note:** Make sure to have an internet connection when opening the HTML file, as it references the P5.js library from a content delivery network (CDN).
 
-Feel free to explore and modify the code to create your own variations of the drifting visual experience. Enjoy the mesmerizing "Noisysticks" visualization!
+Feel free to explore and modify the code to create your own variations of the drifting visual experience.
